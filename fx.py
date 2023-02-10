@@ -8,7 +8,7 @@ import seaborn as sns
 
 
 st.write('''
-#### This app compares and analyses perfomance of various currency pairs using adjusted close price data from the [Yahoo Finance](https://finance.yahoo.com/) library.  
+#### This app compares and analyses performance of various currency pairs using adjusted close price data from the [Yahoo Finance](https://finance.yahoo.com/) library.  
 * ##### Data captured here starts from 2008 up to the last updated values in the library.
 ''')
 ('---')
