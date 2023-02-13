@@ -27,6 +27,8 @@ This is how the front page looks like incase you access the app using a smartpho
 ### Percentage Change Computation.
 > The next section computes for percentage change of your filtered data. Daily % will compute %change for each day day while period will compute %change with reference to the first day of the period lets say you have 2020 to 2023 all values will be computed with reference to the first day of 2020. 
 > For instance lets say we want year to date %change of the USD/KES, data shows at the first of 2023 price was 122.5 and today(10-02-2023) price is 125.18 giving a 2.1878% YTD change. This means if you had invested in the pair at the start of the year your investment would be 2.1878% up now. 
+
+### Option bar
 > You can calculate for the %change yourself and see if you will get same results. 
 > There's an option bar as the last item on the sidebar you will have to select an option for it to be displayed I selected Correlation Heatmap and it was displayed it shows correlation between USD/GHS and USD/INR is 0.23. you can compare the correlations even plot for values which show high/low correlation and see if it's true.
 
